@@ -44,24 +44,6 @@ class Program
             }
         }
     }
-
-    static void Function1()
-    {
-        Console.WriteLine("Да ладно, все норм, я шучу");
-    }
-
-    static void Function2()
-    {
-        Console.WriteLine("Ничего не произошло...");
-    }
-
-    static void Function3()
-    {
-        Console.WriteLine("Пусть будет по вашему, так уж и быть");
-    }
-
-    static void Function4()
-    {
-        Console.WriteLine(" Штирлиц ел картошку в мундире. \n Война давно кончилась и он не боялся его испачкать." );
-    }
+    
+    
 }
