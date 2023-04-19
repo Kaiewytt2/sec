@@ -1,4 +1,4 @@
- static void Function1()
+static void Function1()
     {
-        Console.WriteLine("Да ладно, все норм, я шучу");
-    }
+        Console.WriteLine(Да ладно, все норм, я шучу);
+    } //первая
