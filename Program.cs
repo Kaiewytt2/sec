@@ -1,4 +1,8 @@
-﻿using System;
+using System;
+using static ConsoleApp1.func1;
+using static ConsoleApp1.func2;
+using static ConsoleApp1.func3;
+using static ConsoleApp1.func4;
 
 class Program
 {
@@ -44,6 +48,6 @@ class Program
             }
         }
     }
-    
-    
+
+
 }
